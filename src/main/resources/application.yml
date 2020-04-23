@@ -64,4 +64,4 @@ spring:
           contentType: application/json
 api:
   url:
-    valreservation: http://52.231.118.204:8080
+    valreservation: http://52.231.117.52:8080
