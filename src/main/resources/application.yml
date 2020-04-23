@@ -62,3 +62,6 @@ spring:
         event-out:
           destination: inProject_jjm
           contentType: application/json
+api:
+  url:
+    valreservation: http://52.231.118.204:8080
